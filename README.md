@@ -1,2 +1,4 @@
 # COVID-19 no Brasil em Números: Dataset Pronto para Uso em Pesquisas e Análises
-Criação de um Dataset de COVID-19
+---
+Este artigo apresenta a criação de um dataset completo e atualizado sobre a pandemia de COVID-19 no Brasil, reunindo dados de diversas fontes confiáveis. O objetivo principal é oferecer à comunidade científica brasileira um recurso valioso para pesquisas e análises relacionadas à doença. O dataset inclui informações sobre casos confirmados, mortes, vacinação, demografia e mobilidade, abrangendo um período desde o início da pandemia até a data presente. Os dados estão organizados em um dataset, em formatos CSV com documentação detalhada para facilitar o acesso e a utilização. A criação deste dataset é de extrema importância para pesquisas sobre a pandemia, permitindo a identificação de padrões, tendências e o impacto da doença em diferentes estados brasileiros e grupos populacionais.
+---
